@@ -5,6 +5,9 @@ import pandas as pd
 import statistics as stat
 #track_freq = np.zeros((100,num_cycles + 1,4))
 
+
+### PLOT TYPE SI - Cycle of transmission interruption according to initial frequency of resistant genotypes
+
 #### Atov
 num_sim = 100
 
